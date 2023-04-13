@@ -91,10 +91,14 @@
                 <Button
                     android:id="@+id/btnP1"
                     android:layout_width="70dp"
+                    android:height="0.5dp"
+                    android:layout_marginLeft="1dp"
+                    android:layout_marginRight="1dp"
                     android:layout_height="wrap_content"
+                    android:background="@drawable/botao"
                     android:contentDescription="p1"
                     android:text="17:30"
-                    android:textSize="10dp" />
+                    android:textSize="10sp" />
 
                 <Button
                     android:id="@+id/btnP2"
