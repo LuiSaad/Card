@@ -47,6 +47,37 @@
            android:layout_height="wrap_content"
            android:text="(Italian, Cafe"/>
 
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="O melhor café da região, feito com muito carinho." />
+
+       <View
+           android:layout_width="match_parent"
+           android:layout_height="2dp"/>
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="Nossos horários"
+           />
+
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="O melhor café da região, feito com muito carinho." />
+
+       <View
+           android:layout_width="match_parent"
+           android:layout_height="2dp"/>
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="Nossos horários"
+           />
+
+
+
+
 
 
 
